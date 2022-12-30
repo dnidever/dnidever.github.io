@@ -1,0 +1,7 @@
+msfinal2.txt                                           LAB MS Gaussians from Nidever et al. (2008)
+ms_filament1/2.txt                                     Paths of the two MS filaments from Nidever et al. (2008)
+combine_all_final_mag_lowres.fits.gz [2.1GB]           MS-tip datacube (Figure 4b in Nidever et al. 2010)
+combine_all_final_mag_lowres_rmsmap.fits.gz [8.2MB]    The RMS map
+allms_coldens_log.fits [12MB]                          MS column density map (log units) from Figure 8 top.
+allms_velmlon.fits [4.6MB]]                            Position velocity map (K deg) from Figure 8 bottom.
+
